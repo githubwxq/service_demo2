@@ -73,10 +73,7 @@ public class GetController {
 		return params;
 		
 	}
-	
-	
-	
-	
+
 	/**
 	 * 功能描述：bean对象传参
 	 * 注意：1、注意需要指定http头为 content-type为application/json
